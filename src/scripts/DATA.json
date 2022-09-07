@@ -1,0 +1,145 @@
+
+{
+  "resto": [
+    {
+      "id": 0,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/f1.jpg",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink1.png",
+      "foodPrice": "38K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 1,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food2.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink2.png",
+      "foodPrice": "40K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 2,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food3.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink3.png",
+      "foodPrice": "45K",
+      "drinkPrice": "25K"
+    },
+    {
+      "id": 3,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food4.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink4.png",
+      "foodPrice": "50K",
+      "drinkPrice": "15K"
+    },
+    {
+      "id": 4,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food5.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink5.png",
+      "foodPrice": "30K",
+      "drinkPrice": "22K"
+    },
+    {
+      "id": 5,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food6.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink6.png",
+      "foodPrice": "40K",
+      "drinkPrice": "19K"
+    },
+    {
+      "id": 6,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food7.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink7.png",
+      "foodPrice": "30K",
+      "drinkPrice": "25K"
+    },
+    {
+      "id": 7,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food8.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink8.png",
+      "foodPrice": "32K",
+      "drinkPrice": "15K"
+    },
+    {
+      "id": 8,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food9.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink9.png",
+      "foodPrice": "38K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 9,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food10.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink10.png",
+      "foodPrice": "38K",
+      "drinkPrice": "15K"
+    },
+    {
+      "id": 10,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food11.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink11.png",
+      "foodPrice": "38K",
+      "drinkPrice": "23K"
+    },
+    {
+      "id": 11,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food12.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink12.png",
+      "foodPrice": "38K",
+      "drinkPrice": "15K"
+    },
+    {
+      "id": 12,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food13.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink13.png",
+      "foodPrice": "38K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 13,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food14.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink14.png",
+      "foodPrice": "40K",
+      "drinkPrice": "25K"
+    },
+    {
+      "id": 14,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food15.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink15.png",
+      "foodPrice": "35K",
+      "drinkPrice": "18K"
+    },
+    {
+      "id": 15,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food16.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink16.png",
+      "foodPrice": "35K",
+      "drinkPrice": "22K"
+    },
+    {
+      "id": 16,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food17.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink17.png",
+      "foodPrice": "38K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 17,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food18.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink18.png",
+      "foodPrice": "40K",
+      "drinkPrice": "15K"
+    },
+    {
+      "id": 18,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food19.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink19.png",
+      "foodPrice": "45K",
+      "drinkPrice": "20K"
+    },
+    {
+      "id": 19,
+      "food": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/food20.png",
+      "drink": "https://github.com/adindaafebri/resto2/blob/main/src/public/assets/images/food-drink/drink20.png",
+      "foodPrice": "50K",
+      "drinkPrice": "22K"
+    }
+  ]
+}
